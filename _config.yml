@@ -3,5 +3,9 @@ logo: assets/Screenshot 2024-05-29 at 18-25-07 (12) Zulu not Tshaka talking cent
 description: text below image
 show_downloads: true
 theme: minimal
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "minimal"
 
 
